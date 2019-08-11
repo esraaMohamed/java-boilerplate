@@ -1,0 +1,10 @@
+2019-08-11 00:31:53.510 [main] INFO  VidaAutomation.VidaAutomation.utilities.TestCaseBase - Beginning test setup
+2019-08-11 00:31:53.512 [main] INFO  VidaAutomation.VidaAutomation.utilities.TestCaseBase - Using the driver: android
+2019-08-11 00:31:53.512 [main] INFO  VidaAutomation.VidaAutomation.utilities.TestCaseBase - Class run app Path: /Users/esraa/eclipse-workspace/VidaAutomation/resources/app-distro-release.apk
+2019-08-11 00:32:13.471 [main] INFO  VidaAutomation.VidaAutomation.utilities.TestCaseBase - Starting test VidaAutomation.VidaAutomation.mobile.tests.LoginTest:login, at time: 00:32:13
+
+2019-08-11 00:32:13.475 [main] INFO  VidaAutomation.VidaAutomation.pages.BasePage - Wait to dismiss any system alerts
+2019-08-11 00:32:13.606 [main] ERROR VidaAutomation.VidaAutomation.pages.BasePage - No alert was visible after 60 seconds
+2019-08-11 00:32:33.412 [main] INFO  VidaAutomation.VidaAutomation.utilities.TestCaseBase - Passing test  VidaAutomation.VidaAutomation.mobile.tests.LoginTest:login, at time: 00:32:33, elapsed time (secs): 20
+
+2019-08-11 00:32:35.886 [main] INFO  VidaAutomation.VidaAutomation.utilities.TestCaseBase - Closed Appium Driver
