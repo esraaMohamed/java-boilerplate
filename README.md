@@ -27,3 +27,13 @@
 > In order to do that you need to be inside the emulator under `/Library/Android/sdk/emulator`
 > To run the scripts go to the command line and cd into the project and then type `mvn clean test
 
+
+## Task
+> Write automation scripts to test the following:
+1. Write a test to test the Schedule a consultation feature from the today tab
+2. Write a test to test the rescheduling of a consultation
+3. Write a test to test the cancelation of a consultation
+ 
+```diff 
+- Use cucumber for one of the tests
+```
