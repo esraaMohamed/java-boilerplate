@@ -29,6 +29,7 @@
 
 
 ## Task
+> Create a new branch for your code from the dev branch and after finishing the test scripts create a PR for you branch to the dev branch
 > Write automation scripts to test the following:
 1. Write a test to test the Schedule a consultation feature from the today tab
 2. Write a test to test the rescheduling of a consultation
