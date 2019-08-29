@@ -37,3 +37,10 @@
 ```diff 
 - Use cucumber for one of the tests
 ```
+
+### Helpful screen shots of the feature:
+![Today tab](https://i.ibb.co/8g3x5LC/Screenshot-1567036156.png)
+![Schedule consultation screen](https://i.ibb.co/ZS8pSqp/Screenshot-1567036183.png)
+![Success screen](https://i.ibb.co/m0pgsc1/Screenshot-1567036191.png)
+![Cancel consultation screen](https://i.ibb.co/KmYZPVw/Screenshot-1567036199.png)
+
