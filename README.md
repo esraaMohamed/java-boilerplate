@@ -35,7 +35,7 @@
 3. Write a test to test the cancelation of a consultation
  
 ```diff 
-- Use cucumber for one of the tests
+- Extra: Use cucumber for one of the tests
 ```
 
 ### Helpful screen shots of the feature:
