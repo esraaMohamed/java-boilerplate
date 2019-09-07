@@ -7,7 +7,7 @@
   "deviceName": "emulator-5554",
   "platformVersion": "8",
   "appPackage": "com.vida.healthcoach",
-  "appPath": "{{path_to_project}}/resources/deploy_2019-08-22_version_2.2.84-app-distro-release.apk",
+  "app": "{{path_to_project}}/resources/deploy_2019-08-22_version_2.2.84-app-distro-release.apk",
   "appActivity": "com.vida.healthcoach.StartupActivity"
 }
 ```
