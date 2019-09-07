@@ -10,12 +10,12 @@
 	<name>Vida</name>
 	<url>http://www.vida.com</url>
 
-	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<suite>suite/prod_login_tests.xml</suite>
-		<suite>suite/prod_action_recommendations_tests.xml</suite>
-		<browser>firefox</browser>
-	</properties>
+<!--	<properties>-->
+<!--		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>-->
+<!--		<suite>suite/prod_login_tests.xml</suite>-->
+<!--		<suite>suite/prod_action_recommendations_tests.xml</suite>-->
+<!--		<browser>firefox</browser>-->
+<!--	</properties>-->
 
 
 	<dependencies>
@@ -237,9 +237,9 @@
 						<propertyName>browser</propertyName>
 						<buildDirectory>${browser}</buildDirectory>
 					</systemPropertyVariables>
-					<suiteXmlFiles>
-						<suiteXmlFile>${suite}</suiteXmlFile>
-					</suiteXmlFiles>
+<!--					<suiteXmlFiles>-->
+<!--						<suiteXmlFile>${suite}</suiteXmlFile>-->
+<!--					</suiteXmlFiles>-->
 				</configuration>
 			</plugin>
 		</plugins>
